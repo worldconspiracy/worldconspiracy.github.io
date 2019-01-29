@@ -1,4 +1,4 @@
 # worldconspiracy.github.io
 simulacrum library
 
-![simulacrum](IMG_20170718_0010.jpg)
+<center>![simulacrum](IMG_20170718_0010.jpg =300)</center>
